@@ -1,0 +1,11 @@
+# 银行流水等敏感数据（绝不推送）
+*.xlsx
+bank_page*.png
+
+# macOS 系统文件
+.DS_Store
+
+# 其他数据文件
+*.csv
+*.json
+未命名文件夹/
