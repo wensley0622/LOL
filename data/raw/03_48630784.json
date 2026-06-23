@@ -1,0 +1,39 @@
+{
+  "source": "Hacker News Algolia Search API",
+  "source_url": "https://hn.algolia.com/api/v1/search_by_date",
+  "collected_at": "2026-06-22T14:46:18Z",
+  "record": {
+    "_highlightResult": {
+      "author": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "hsikka"
+      },
+      "title": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "Breaking Browser-Use Models Using Domain Randomization"
+      },
+      "url": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "https://www.fig.inc/blog/gui-pertubed-breaking-browser-use-models/"
+      }
+    },
+    "_tags": [
+      "story",
+      "author_hsikka",
+      "story_48630784"
+    ],
+    "author": "hsikka",
+    "created_at": "2026-06-22T14:37:48Z",
+    "created_at_i": 1782139068,
+    "num_comments": 0,
+    "objectID": "48630784",
+    "points": 2,
+    "story_id": 48630784,
+    "title": "Breaking Browser-Use Models Using Domain Randomization",
+    "updated_at": "2026-06-22T14:40:11Z",
+    "url": "https://www.fig.inc/blog/gui-pertubed-breaking-browser-use-models/"
+  }
+}

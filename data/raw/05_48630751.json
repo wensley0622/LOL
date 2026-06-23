@@ -1,0 +1,42 @@
+{
+  "source": "Hacker News Algolia Search API",
+  "source_url": "https://hn.algolia.com/api/v1/search_by_date",
+  "collected_at": "2026-06-22T14:46:18Z",
+  "record": {
+    "_highlightResult": {
+      "author": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "adibhanna"
+      },
+      "title": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "ZenNotes – Keyboard-first Markdown notes, plain files, MIT-licensed"
+      },
+      "url": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "https://zennotes.org/"
+      }
+    },
+    "_tags": [
+      "story",
+      "author_adibhanna",
+      "story_48630751"
+    ],
+    "author": "adibhanna",
+    "children": [
+      48630752
+    ],
+    "created_at": "2026-06-22T14:35:41Z",
+    "created_at_i": 1782138941,
+    "num_comments": 0,
+    "objectID": "48630751",
+    "points": 2,
+    "story_id": 48630751,
+    "title": "ZenNotes – Keyboard-first Markdown notes, plain files, MIT-licensed",
+    "updated_at": "2026-06-22T14:39:12Z",
+    "url": "https://zennotes.org/"
+  }
+}

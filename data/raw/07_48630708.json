@@ -1,0 +1,44 @@
+{
+  "source": "Hacker News Algolia Search API",
+  "source_url": "https://hn.algolia.com/api/v1/search_by_date",
+  "collected_at": "2026-06-22T14:46:18Z",
+  "record": {
+    "_highlightResult": {
+      "author": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "devdoc83"
+      },
+      "title": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "Show HN: ZeroDrop – Disposable email inboxes for CI pipelines (no Docker)"
+      },
+      "url": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "https://www.zerodrop.dev/"
+      }
+    },
+    "_tags": [
+      "story",
+      "author_devdoc83",
+      "story_48630708",
+      "show_hn"
+    ],
+    "author": "devdoc83",
+    "children": [
+      48630760,
+      48630711
+    ],
+    "created_at": "2026-06-22T14:32:48Z",
+    "created_at_i": 1782138768,
+    "num_comments": 1,
+    "objectID": "48630708",
+    "points": 1,
+    "story_id": 48630708,
+    "title": "Show HN: ZeroDrop – Disposable email inboxes for CI pipelines (no Docker)",
+    "updated_at": "2026-06-22T14:36:57Z",
+    "url": "https://www.zerodrop.dev/"
+  }
+}

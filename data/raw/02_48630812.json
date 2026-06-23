@@ -1,0 +1,39 @@
+{
+  "source": "Hacker News Algolia Search API",
+  "source_url": "https://hn.algolia.com/api/v1/search_by_date",
+  "collected_at": "2026-06-22T14:46:18Z",
+  "record": {
+    "_highlightResult": {
+      "author": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "spdegabrielle"
+      },
+      "title": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "Build your own AI-assisted personal health record"
+      },
+      "url": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "https://openhealthhub.org/t/build-your-own-ai-assisted-personal-health-record/3006"
+      }
+    },
+    "_tags": [
+      "story",
+      "author_spdegabrielle",
+      "story_48630812"
+    ],
+    "author": "spdegabrielle",
+    "created_at": "2026-06-22T14:39:46Z",
+    "created_at_i": 1782139186,
+    "num_comments": 0,
+    "objectID": "48630812",
+    "points": 1,
+    "story_id": 48630812,
+    "title": "Build your own AI-assisted personal health record",
+    "updated_at": "2026-06-22T14:41:26Z",
+    "url": "https://openhealthhub.org/t/build-your-own-ai-assisted-personal-health-record/3006"
+  }
+}

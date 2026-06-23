@@ -1,0 +1,39 @@
+{
+  "source": "Hacker News Algolia Search API",
+  "source_url": "https://hn.algolia.com/api/v1/search_by_date",
+  "collected_at": "2026-06-22T14:46:18Z",
+  "record": {
+    "_highlightResult": {
+      "author": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "giwook"
+      },
+      "title": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "Fugu Ultra Model Challenges Anthropic's Fable 5 and Mythos Preview"
+      },
+      "url": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "https://sakana.ai/fugu-release/"
+      }
+    },
+    "_tags": [
+      "story",
+      "author_giwook",
+      "story_48630823"
+    ],
+    "author": "giwook",
+    "created_at": "2026-06-22T14:40:29Z",
+    "created_at_i": 1782139229,
+    "num_comments": 0,
+    "objectID": "48630823",
+    "points": 1,
+    "story_id": 48630823,
+    "title": "Fugu Ultra Model Challenges Anthropic's Fable 5 and Mythos Preview",
+    "updated_at": "2026-06-22T14:41:26Z",
+    "url": "https://sakana.ai/fugu-release/"
+  }
+}

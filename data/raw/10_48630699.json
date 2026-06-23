@@ -1,0 +1,39 @@
+{
+  "source": "Hacker News Algolia Search API",
+  "source_url": "https://hn.algolia.com/api/v1/search_by_date",
+  "collected_at": "2026-06-22T14:46:18Z",
+  "record": {
+    "_highlightResult": {
+      "author": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "ColinWright"
+      },
+      "title": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "All Tomorrow's Parties"
+      },
+      "url": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "https://ethanmarcotte.com/wrote/all-tomorrows-parties/"
+      }
+    },
+    "_tags": [
+      "story",
+      "author_ColinWright",
+      "story_48630699"
+    ],
+    "author": "ColinWright",
+    "created_at": "2026-06-22T14:31:57Z",
+    "created_at_i": 1782138717,
+    "num_comments": 0,
+    "objectID": "48630699",
+    "points": 2,
+    "story_id": 48630699,
+    "title": "All Tomorrow's Parties",
+    "updated_at": "2026-06-22T14:35:10Z",
+    "url": "https://ethanmarcotte.com/wrote/all-tomorrows-parties/"
+  }
+}

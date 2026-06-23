@@ -1,0 +1,39 @@
+{
+  "source": "Hacker News Algolia Search API",
+  "source_url": "https://hn.algolia.com/api/v1/search_by_date",
+  "collected_at": "2026-06-22T14:46:18Z",
+  "record": {
+    "_highlightResult": {
+      "author": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "defly"
+      },
+      "title": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "Cloudflare Incident"
+      },
+      "url": {
+        "matchLevel": "none",
+        "matchedWords": [],
+        "value": "https://new.cloudflarestatus.com/incidents/v07jy3n7nbnt"
+      }
+    },
+    "_tags": [
+      "story",
+      "author_defly",
+      "story_48630754"
+    ],
+    "author": "defly",
+    "created_at": "2026-06-22T14:35:46Z",
+    "created_at_i": 1782138946,
+    "num_comments": 0,
+    "objectID": "48630754",
+    "points": 2,
+    "story_id": 48630754,
+    "title": "Cloudflare Incident",
+    "updated_at": "2026-06-22T14:39:12Z",
+    "url": "https://new.cloudflarestatus.com/incidents/v07jy3n7nbnt"
+  }
+}
